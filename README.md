@@ -25,4 +25,4 @@ urbanmelody:         "[■■■■■ ■■■■■ □□□□□ □□□
 ![](https://skillicons.dev/icons?i=cpp)
 
 ### Social
-[![Guns.lol](./Guns_lol.png)](https://guns.lol/ghfakegh1337)
+[![Guns.lol](./Guns_lol2.png)](https://guns.lol/ghfakegh1337)
