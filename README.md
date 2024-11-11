@@ -25,4 +25,4 @@ urbanmelody:         "[■■■■■ ■■■■■ □□□□□ □□□
 ![](https://skillicons.dev/icons?i=cpp)
 
 ### Social
-[![Guns.lol](https://media.discordapp.net/attachments/1258739346425643068/1305504508469579838/guns_logo_no_background_cropped.png?ex=67334551&is=6731f3d1&hm=d703cf1814b6366d31a0866527781041641d44c979bb0b1f441e9e076aabe1ea&=&format=webp&quality=lossless)](https://guns.lol/ghfakegh1337)
+[![Guns.lol](https://media.discordapp.net/attachments/1258739346425643068/1305505128190836787/image.png?ex=673345e5&is=6731f465&hm=03931c750b5bdd46ed91a1c19b25448e6e3e874607e5a7c7a249878fd280731b&=&format=webp&quality=lossless)](https://guns.lol/ghfakegh1337)
