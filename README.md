@@ -5,7 +5,7 @@
 
 ### About Me
 
-🌱 **Currently Learning**: I'm on a journey to learn game hacking and reverse engineering but im still a *newbie*.
+🌱 **Currently studying**: I'm going on a trip to study system programming, game hacking and reverse engineering, but I'm still a beginner.
 
 ## Projects in Progress
 ```js
