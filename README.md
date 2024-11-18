@@ -9,8 +9,8 @@
 
 ## Projects in Progress
 ```js
-Rust:                         "[■■□□□ □□□□□ □□□□□ □□□□□ □□□□□ □□□□□ □□□□□ □□□□□ □□□□□ □□□□□] 1%"
-UrbanMelody (frozen):         "[■■■■■ ■■■■■ □□□□□ □□□□□ □□□□□ □□□□□ □□□□□ □□□□□ □□□□□ □□□□□] 15%"
+  Rust:                         "[■□□□□ □□□□□ □□□□□ □□□□□ □□□□□ □□□□□ □□□□□ □□□□□ □□□□□ □□□□□] 1%"
+  UrbanMelody (frozen):         "[■■■■■ ■■■■■ □□□□□ □□□□□ □□□□□ □□□□□ □□□□□ □□□□□ □□□□□ □□□□□] 15%"
 ```
 
 ## Stats
@@ -22,6 +22,9 @@ UrbanMelody (frozen):         "[■■■■■ ■■■■■ □□□□□ 
 ### My workspace
 
 ![](https://skillicons.dev/icons?i=c,cpp)
+
+### My future workspace
+![](https://skillicons.dev/icons?i=rust)
 
 ### Social
 [![Guns.lol](https://media.discordapp.net/attachments/1258739346425643068/1305505757101424642/image.png?ex=6733467b&is=6731f4fb&hm=59fc88fed59ebeb299b7b4bd4a69c6cba48827201bf8783e165ad8aa53472ffb&=&format=webp&quality=lossless)](https://guns.lol/ghfakegh1337)
