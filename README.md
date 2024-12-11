@@ -21,7 +21,7 @@
 
 ### My workspace
 
-![](https://skillicons.dev/icons?i=c,cpp,linux,ubuntu)
+![](https://skillicons.dev/icons?i=c,cpp,linux,ubuntu,windows)
 
 ### My future workspace
 ![](https://skillicons.dev/icons?i=rust)
