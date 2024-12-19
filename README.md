@@ -9,7 +9,7 @@
 
 ## Projects in Progress
 ```js
-  Rust:                         "[■□□□□ □□□□□ □□□□□ □□□□□ □□□□□ □□□□□ □□□□□ □□□□□ □□□□□ □□□□□] 1%"
+  C#:                           "[□□□□□ □□□□□ □□□□□ □□□□□ □□□□□ □□□□□ □□□□□ □□□□□ □□□□□ □□□□□] 0%"
   UrbanMelody (outdated):       "[■■■■■ ■■■■■ □□□□□ □□□□□ □□□□□ □□□□□ □□□□□ □□□□□ □□□□□ □□□□□] 15%"
 ```
 
@@ -24,7 +24,7 @@
 ![](https://skillicons.dev/icons?i=c,cpp,debian,windows)
 
 ### My future workspace
-![](https://skillicons.dev/icons?i=rust)
+![](https://skillicons.dev/icons?i=c#)
 
 ### Social
 [![Guns.lol](./gunslol.png)](https://guns.lol/ghfakegh1337)
