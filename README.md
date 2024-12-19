@@ -24,7 +24,7 @@
 ![](https://skillicons.dev/icons?i=c,cpp,debian,windows)
 
 ### My future workspace
-![](https://skillicons.dev/icons?i=csharp)
+![](https://skillicons.dev/icons?i=c-sharp)
 
 ### Social
 [![Guns.lol](./gunslol.png)](https://guns.lol/ghfakegh1337)
