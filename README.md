@@ -20,7 +20,7 @@
 
 ### My workspace
 
-![](https://skillicons.dev/icons?i=c,cpp,cs,debian,windows)
+![](https://skillicons.dev/icons?i=cs,windows)
 
 ### Social
 [![Guns.lol](./gunslol.png)](https://guns.lol/ghfakegh1337)
