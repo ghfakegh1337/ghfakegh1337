@@ -20,7 +20,11 @@
 
 ### My workspace
 
-![](https://skillicons.dev/icons?i=cs,windows)
+![](https://skillicons.dev/icons?i=windows)
+
+### I'm studying now
+
+![](https://skillicons.dev/icons?i=cs)
 
 ### Social
 [![Guns.lol](./gunslol.png)](https://guns.lol/ghfakegh1337)
