@@ -20,7 +20,7 @@
 
 ### My workspace
 
-![](https://skillicons.dev/icons?i=windows)
+![](https://skillicons.dev/icons?i=windows,linux,c,cpp,cs)
 
 ### I'm studying now
 
