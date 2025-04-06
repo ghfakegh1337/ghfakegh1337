@@ -24,7 +24,7 @@
 
 ### I'm studying now
 
-![](https://skillicons.dev/icons?i=cs)
+![](https://skillicons.dev/icons?i=rust)
 
 ### Social
 [![Guns.lol](./gunslol.png)](https://guns.lol/ghfakegh1337)
