@@ -7,11 +7,6 @@
 
 🌱 **Currently studying**: I'm going on a trip to study system programming, game hacking and reverse engineering, but I'm still a beginner.
 
-## Projects in Progress
-```js
-~~Rust: ■■■■■■■■□□□□□□□□□□□□□ 16.35%~~
-```
-
 ## Stats
 ![](https://komarev.com/ghpvc/?username=ghfakegh1337&color=red&style=for-the-badge)
 
