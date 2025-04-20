@@ -5,7 +5,7 @@
 
 ### About Me
 
-<details><summary>Как вы думаете, какой человек не может изучить ни один язык программирования? </summary>Это я.</details>
+<details><summary>What kind of person do you think can't learn any programming language for 3 years?</summary>That's me.</details>
 
 ## Stats
 ![](https://komarev.com/ghpvc/?username=ghfakegh1337&color=red&style=for-the-badge)
