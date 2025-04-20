@@ -17,9 +17,7 @@
 
 ![](https://skillicons.dev/icons?i=windows,linux)
 
-### I'm studying now
-
-![](https://skillicons.dev/icons?i=rust)
+### ~~I'm studying now~~
 
 ### Social
 [![Guns.lol](./gunslol.png)](https://guns.lol/ghfakegh1337)
