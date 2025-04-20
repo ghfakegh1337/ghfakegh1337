@@ -9,7 +9,7 @@
 
 ## Projects in Progress
 ```js
-
+~~Rust: ■■■■■■■■□□□□□□□□□□□□□ 16.35%~~
 ```
 
 ## Stats
