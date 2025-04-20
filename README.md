@@ -5,7 +5,7 @@
 
 ### About Me
 
-Как вы думаете, какой человек не может изучить ни один язык программирования? <details><summary>Спойлер</summary>Это я.</details>
+<details><summary>Как вы думаете, какой человек не может изучить ни один язык программирования? </summary>Это я.</details>
 
 ## Stats
 ![](https://komarev.com/ghpvc/?username=ghfakegh1337&color=red&style=for-the-badge)
