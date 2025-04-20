@@ -1,11 +1,11 @@
 [![Header](./Background.png)](https://guns.lol/ghfakegh1337) 
 
 
-#### *"I'm ready to learn"*
+#### ~~*"I'm ready to learn"*~~
 
 ### About Me
 
-🌱 **Currently studying**: I'm going on a trip to study system programming, game hacking and reverse engineering, but I'm still a beginner.
+Как вы думаете, какой человек не может изучить ни один язык программирования? <details><summary>Спойлер</summary>Это я.</details>
 
 ## Stats
 ![](https://komarev.com/ghpvc/?username=ghfakegh1337&color=red&style=for-the-badge)
