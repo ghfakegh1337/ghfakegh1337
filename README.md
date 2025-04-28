@@ -5,13 +5,11 @@
 
   #### ~~*"I'm ready to learn"*~~
 
-  ### About Me
+  ## About Me
 
   <details><summary>What kind of person do you think can't learn any programming language for 3 years?</summary>That's me. 😢</details>
 
-  ---
-
-  ### Stats
+  ## Stats
 
   ![Profile Views](https://komarev.com/ghpvc/?username=ghfakegh1337&color=red&style=for-the-badge)
 
@@ -21,19 +19,13 @@
 
   [![Discord Widget](https://discord.c99.nl/widget/theme-1/1216658270538698814.png)](https://discord.c99.nl/widget/theme-1/1216658270538698814.png)
 
-  ---
-
-  ### My workspace
+  ## My workspace
 
   ![Workspace Icons](https://skillicons.dev/icons?i=windows,linux)
 
-  ---
+  ## ~~I'm studying now~~
 
-  ### ~~I'm studying now~~
-
-  ---
-
-  ### Social
+  ## Social
 
   [![Guns.lol](./gunslol.png)](https://guns.lol/ghfakegh1337)
 </div>
