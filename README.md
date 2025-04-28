@@ -11,7 +11,7 @@
 
   ---
 
-  ## Stats
+  ### Stats
 
   ![Profile Views](https://komarev.com/ghpvc/?username=ghfakegh1337&color=red&style=for-the-badge)
 
