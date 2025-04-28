@@ -13,19 +13,30 @@
   </details>
 
   <h2>Stats</h2>
-  <img src="https://komarev.com/ghpvc/?username=ghfakegh1337&color=red&style=for-the-badge" alt="Profile views badge" />
+  
+  <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; align-items: center; justify-content: center;">
+    <div style="grid-column: span 2; text-align: center;">
+      <img src="https://komarev.com/ghpvc/?username=ghfakegh1337&color=red&style=for-the-badge" alt="Profile views badge" />
+    </div>
+    
+    <div style="grid-column: span 1;">
+      <a href="https://github.com/ghfakegh1337">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghfakegh1337&title_color=7433FF&icon_color=bb2acf&text_color=b3b3ff&bg_color=0,000000,130F40&hide_border=true&layout=compact&hide=batchfile,c#" alt="Top languages" />
+      </a>
+    </div>
 
-  <a href="https://github.com/ghfakegh1337">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghfakegh1337&title_color=7433FF&icon_color=bb2acf&text_color=b3b3ff&bg_color=0,000000,130F40&hide_border=true&layout=compact&hide=batchfile,c#" alt="Top languages" />
-  </a>
+    <div style="grid-column: span 1;">
+      <a href="https://github.com/ghfakegh1337">
+        <img src="https://github-readme-stats.vercel.app/api?username=ghfakegh1337&show_icons=true&show_icons=true&title_color=7433FF&icon_color=bb2acf&text_color=b3b3ff&bg_color=0,000000,130F40&hide_border=true" alt="GitHub stats" />
+      </a>
+    </div>
 
-  <a href="https://github.com/ghfakegh1337">
-    <img src="https://github-readme-stats.vercel.app/api?username=ghfakegh1337&show_icons=true&show_icons=true&title_color=7433FF&icon_color=bb2acf&text_color=b3b3ff&bg_color=0,000000,130F40&hide_border=true" alt="GitHub stats" />
-  </a>
-
-  <a href="https://discord.c99.nl/widget/theme-1/1216658270538698814.png">
-    <img src="https://discord.c99.nl/widget/theme-1/1216658270538698814.png" alt="Discord" />
-  </a>
+    <div style="grid-column: span 2; text-align: center;">
+      <a href="https://discord.c99.nl/widget/theme-1/1216658270538698814.png">
+        <img src="https://discord.c99.nl/widget/theme-1/1216658270538698814.png" alt="Discord" />
+      </a>
+    </div>
+  </div>
 
   <h3>My workspace</h3>
   <img src="https://skillicons.dev/icons?i=windows,linux" alt="Workspace icons" />
