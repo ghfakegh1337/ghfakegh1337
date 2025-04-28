@@ -3,6 +3,10 @@
 
 #### ~~*"I'm ready to learn"*~~
 
+<a href="https://discord.c99.nl/widget/theme-3/ghfakegh1337.png">
+  <img src="https://discord.c99.nl/widget/theme-3/ghfakegh1337.png" alt="Discord" />
+</a>
+
 ### About Me
 
 <details><summary>What kind of person do you think can't learn any programming language for 3 years?</summary>That's me. 😢</details>
