@@ -1,5 +1,5 @@
 <div align="center">
-  ![Header](./Background.png)](https://guns.lol/ghfakegh1337)
+  [![Header](./Background.png)](https://guns.lol/ghfakegh1337)
 
   #### ~~*"I'm ready to learn"*~~
 
