@@ -1,5 +1,7 @@
 <div align="center">
-  [![Header](./Background.png)](https://guns.lol/ghfakegh1337)
+  <a href="https://guns.lol/ghfakegh1337">
+    <img src="./Background.png" alt="Header" />
+  </a>
 
   #### ~~*"I'm ready to learn"*~~
 
