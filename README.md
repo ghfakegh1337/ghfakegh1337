@@ -11,11 +11,11 @@
 
   ## Stats
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=ghfakegh1337&color=808080&style=flat)
+  ![Profile Views](https://komarev.com/ghpvc/?username=ghfakegh1337&color=ffffff&style=flat)
 
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ghfakegh1337&title_color=808080&icon_color=808080&text_color=808080&bg_color=00000000&hide_border=true&layout=compact&hide=batchfile,c#)](https://github.com/ghfakegh1337)
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ghfakegh1337&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2f2f2f&hide_border=true&layout=compact&hide=batchfile,c#)](https://github.com/ghfakegh1337)
 
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghfakegh1337&show_icons=true&title_color=808080&icon_color=808080&text_color=808080&bg_color=00000000&hide_border=true)](https://github.com/ghfakegh1337)
+  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghfakegh1337&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2f2f2f&hide_border=true)](https://github.com/ghfakegh1337)
 
   [![Discord Widget](https://discord.c99.nl/widget/theme-1/1216658270538698814.png)](https://discord.c99.nl/widget/theme-1/1216658270538698814.png)
 
