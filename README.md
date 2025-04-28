@@ -9,6 +9,8 @@
 
   <details><summary>What kind of person do you think can't learn any programming language for 3 years?</summary>That's me. 😢</details>
 
+  ---
+
   ## Stats
 
   ![Profile Views](https://komarev.com/ghpvc/?username=ghfakegh1337&color=red&style=for-the-badge)
@@ -19,11 +21,17 @@
 
   [![Discord Widget](https://discord.c99.nl/widget/theme-1/1216658270538698814.png)](https://discord.c99.nl/widget/theme-1/1216658270538698814.png)
 
+  ---
+
   ### My workspace
 
   ![Workspace Icons](https://skillicons.dev/icons?i=windows,linux)
 
+  ---
+
   ### ~~I'm studying now~~
+
+  ---
 
   ### Social
 
