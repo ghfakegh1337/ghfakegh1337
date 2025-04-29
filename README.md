@@ -21,7 +21,7 @@
 
   ## My workspace
 
-  ![Workspace Icons](https://skillicons.dev/icons?i=windows,linux)
+  ![Workspace Icons](https://skillicons.dev/icons?i=windows,linux,asm)
 
   ## ~~I'm studying now~~
 
