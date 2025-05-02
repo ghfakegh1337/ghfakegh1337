@@ -3,7 +3,7 @@
     <img src="./Background.png" alt="Header" />
   </a>
 
-  #### ~~*"I'm ready to learn"*~~
+  #### *"I'm ready to learn"*
 
   ## About Me
 
@@ -23,7 +23,9 @@
 
   ![Workspace Icons](https://skillicons.dev/icons?i=windows,linux)
 
-  ## ~~I'm studying now~~
+  ## I'm studying now
+
+  I hope that this was my last deplorable programming experience and now I want to move to https://skillicons.dev/icons?i=с
 
   ## Social
 
