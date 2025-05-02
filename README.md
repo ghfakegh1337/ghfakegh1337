@@ -3,8 +3,6 @@
     <img src="./Background.png" alt="Header" />
   </a>
 
-  #### ~*"I'm ready to learn"*~
-
   ## About Me
 
   <details><summary>What kind of person do you think can't learn any programming language for 3 years?</summary>That's me. 😢</details>
