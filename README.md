@@ -3,7 +3,7 @@
     <img src="./Background.png" alt="Header" />
   </a>
 
-  #### *"I'm ready to learn"*
+  #### ~*"I'm ready to learn"*~
 
   ## About Me
 
