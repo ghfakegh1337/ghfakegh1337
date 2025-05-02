@@ -25,7 +25,7 @@
 
   ## I'm studying now
 
-  I hope that this was my last deplorable programming experience and now I want to move to https://skillicons.dev/icons?i=с
+  I hope that this was my last deplorable programming experience and now I want to move to ![Workspace Icons](https://skillicons.dev/icons?i=с)
 
   ## Social
 
