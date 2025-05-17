@@ -15,8 +15,6 @@
 
   [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghfakegh1337&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2f2f2f&hide_border=true)](https://github.com/ghfakegh1337)
 
-  [![Discord Widget](https://discord.c99.nl/widget/theme-1/1216658270538698814.png)](https://discord.c99.nl/widget/theme-1/1216658270538698814.png)
-
   ## My workspace
 
   ![Workspace Icons](https://skillicons.dev/icons?i=windows,linux)
